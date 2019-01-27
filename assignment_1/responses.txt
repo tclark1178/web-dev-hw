@@ -1,5 +1,10 @@
-The world is what we make of it.
+The web contains the onformation or web pages that is nested on top of the internet. 
 
-Coffee saves lives!
+The internet is a wire of infrastructure of infrastructures all connecting servers togather. Our personal computers or smartphones are clients that connect to the servers that connect to the internet.
 
-qazwsxedcrfvtgbyhnujmik,ol.p;/
+A directory is a file system much like a tree with the root file being the main file and the index.html file being the homepage. 
+
+VCS is important for collabaration of sharing files, checking history of what has been changed to a project, saving and storing files the right way as to not loose track of changes. 
+
+I found the difference between the World Wide Web and the internet interesting as it exlapins the orgins of the internet as a defense system called the arpanet. 
+
