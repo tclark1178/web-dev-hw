@@ -1,2 +1,4 @@
 I visited www.amazon.com in 1998
-It has changed and improve drastically over the years   
+It has changed and improve drastically over the years
+
+The GIT Module is great!  
