@@ -2,4 +2,4 @@
 
 2. I used the colors #ee3e80, #FF00FF, powder blue and B&W. I looked into 80s color themes to give it that feel.  
 
-3. 
+3. I had a lot of fun with this website and I may have got carried away. However the crowded look I thought supported the 80s retro look so I kept it. I did at first struggle with the CSS part as it was new to me however after this project I feel more comfortable working with CSS files. I fine that using external CSS files is easier for me and I guess that's why so many web developers use external files.    
