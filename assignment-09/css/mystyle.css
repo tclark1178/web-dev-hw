@@ -12,11 +12,12 @@ h1 {
 h2 {
   background-color:  	#FF00FF;
   font-size: 30px;
+  color: limegreen;
 }
 p {
   background-color:  	#00FFFF;
   font-family: verdana;
-  color: limegreen; 
+  color: white;
   font-size: 55px;
   /*this will give it the 80s feel*/
 }
