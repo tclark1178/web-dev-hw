@@ -9,9 +9,17 @@ h1 {
   color: powderblue;
   border-radius:  20px;
 }
-
+h2 {
+  background-color:  	#FF00FF;
+  font-size: 30px;
+}
 p {
   background-color:  	#00FFFF;
   font-family: verdana;
   font-size: 55px;
+}
+
+/images {
+  border-color: blue;
+  box-sizing: 20px;
 }
