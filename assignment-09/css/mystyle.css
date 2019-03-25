@@ -1,11 +1,13 @@
 body {
   background-image: url("../images/80 pop art.jpg")
-  
+
 }
 
 h1 {
-  color: teal;
-  text-align: center;
+  background-color: #ee3e80;
+  font-size: 40px;
+  color: powderblue;
+  border-radius:  20px;
 }
 
 p {
