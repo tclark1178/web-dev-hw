@@ -1,4 +1,0 @@
-One way data travels is by fiber optic cable that are build to move light through them. These are the fastest longest way to move data.
-DNS translates domain names and IP address is the number assigned to each device connected to the internet.
-A cookie is a some data or http that is left on a device so a website will remember that device much like a bookmark in the tool bar of a browser.
-The protocol like http:// the domain name like google and the path at the end of it that tells where it is in the file.     
