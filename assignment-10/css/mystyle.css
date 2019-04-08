@@ -10,7 +10,7 @@ h2, h1 {
   margin: auto;
 }
 
-p {
+p, h4 {
   font-family: 'Lato', sans-serif;
   font-size: 1em;
   color: #000;
