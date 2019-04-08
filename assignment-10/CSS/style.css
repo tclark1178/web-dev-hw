@@ -2,7 +2,8 @@ body {
   background-image: url("images/Grungy-Paper-Texture-3.jpg")
 }
 h2 {
-  font-family: 'Domine-Bold.ttf'
-  font-size:
+  font-family: 'Domine-Bold.ttf',cursive;
+  font-size: '20px';
+  
 
 }
