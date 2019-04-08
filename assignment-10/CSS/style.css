@@ -2,7 +2,7 @@ body {
   background-image: (".../images/Grungy-Paper-Texture-3.jpg")
 }
 
-h2 {
+h2, h1 {
   font-family: 'Times';
   font-size: '2em';
   text-align: center;
