@@ -2,7 +2,10 @@
   width: 600px;
   height: 600px;
   background-color: #A60F0F;
+}
+.container part1 {
+  width: 75;
+  height: 50;
+  color: #D99311;
 
 }
-
-color: #A60F0F;
