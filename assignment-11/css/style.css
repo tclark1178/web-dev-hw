@@ -27,10 +27,10 @@ h4 {
 .ex2 {
   /* This is the I of the IN */
     position: absolute;
-    left: 30px;
+    left: 85px;
     width: 89px;
     height: 350px;
-    box-shadow: -10px 10px;
+    box-shadow: -25px 25px;
     border-style: solid;
     border-color: #261C16;
     background-color: #D99311;
@@ -42,7 +42,7 @@ h4 {
   right: 1100px;
   width: 89px;
 	height: 350px;
-  box-shadow: -10px 10px;
+  box-shadow: -25px 25px;
 	transform: skew(20deg);
   border-style: solid;
   border-color: #261C16;
@@ -55,7 +55,7 @@ h4 {
   right: 1200px;
   width: 89px;
 	height: 350px;
-  box-shadow: -10px 10px;
+  box-shadow: -25px 25px;
   border-style: solid;
   border-color: #261C16;
   background-color: #D99311;
@@ -67,7 +67,7 @@ h4 {
   right: 1000px;
   width: 89px;
 	height: 350px;
-  box-shadow: -10px 10px ;
+  box-shadow: -25px 25px ;
   z-index: -1;
   border-style: solid;
   border-color: #261C16;
