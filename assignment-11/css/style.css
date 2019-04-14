@@ -1,14 +1,13 @@
 
-#h1 {
-    font-size: 100px;
-    font-style: normal;
-    background-color: #D99311;
-
-}
-
-
 .canvas {
   width: 600px;
   height: 600px;
   background-color: #A60F0F;
+}
+
+#frist {
+    font-size: 100px;
+    font-style: normal;
+    background-color: #D99311;
+
 }
