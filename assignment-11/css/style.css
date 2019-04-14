@@ -1,7 +1,8 @@
-.my-box {
-  width: 200;
-  height: 200;
-  border: ;
-  padding: ;
-  margin: ;
+.canvas {
+  width: 600px;
+  height: 600px;
+  background-color: #A60F0F;
+
 }
+
+color: #A60F0F;
