@@ -1,5 +1,11 @@
 
+h2 {
+  border-radius: 2px;
+  border-color: white;
+}
+
 .ex1 {
+  /* this is the canvas for the IN */
   position: absolute;
   left: 0px;
   top: 0px;
@@ -10,22 +16,48 @@
 }
 
 .ex2 {
+  /* This is the I of the IN */
     position: absolute;
-    position left: 15px;
-    position right: 15px;
+    left: 30px;
     width: 89px;
     height: 350px;
+    box-shadow: -10px 10px;
     border-style: solid;
     border-color: #261C16;
     background-color: #D99311;
 }
 
 .ex3 {
+  /* this is the middle part of the N */
   position: absolute;
   right: 1100px;
   width: 89px;
 	height: 350px;
+  box-shadow: -10px 10px;
 	transform: skew(20deg);
+  border-style: solid;
+  border-color: #261C16;
+  background-color: #D99311;
+}
+
+.ex4 {
+  /* And the las part of the N */
+  position: absolute;
+  right: 1200px;
+  width: 89px;
+	height: 350px;
+  box-shadow: -10px 10px;
+  border-style: solid;
+  border-color: #261C16;
+  background-color: #D99311;
+}
+
+.ex5 {
+  position: absolute;
+  right: 1000px;
+  width: 89px;
+	height: 350px;
+  box-shadow: -10px ;
   border-style: solid;
   border-color: #261C16;
   background-color: #D99311;
