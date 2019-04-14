@@ -1,13 +1,32 @@
 
 .ex1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
   width: 600px;
   height: 600px;
   background-color: #A60F0F;
 }
 
-#frist {
-    font-size: 100px;
-    font-style: normal;
+.ex2 {
+    position: absolute;
+    position left: 15px;
+    position right: 15px;
+    width: 89px;
+    height: 350px;
+    border-style: solid;
+    border-color: #261C16;
     background-color: #D99311;
+}
 
+.ex3 {
+  position: absolute;
+  right: 1100px;
+  width: 89px;
+	height: 350px;
+	transform: skew(20deg);
+  border-style: solid;
+  border-color: #261C16;
+  background-color: #D99311;
 }
