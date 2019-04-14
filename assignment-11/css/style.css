@@ -3,9 +3,12 @@
   height: 600px;
   background-color: #A60F0F;
 }
-.container part1 {
+.container inner-box1 {
   width: 75;
-  height: 50;
+  height: 85;
   color: #D99311;
+  border-color: black;
+  border-bottom-left-radius: 15px 25px;
+  border-bottom-right-radius: 15px 25px;
 
 }
