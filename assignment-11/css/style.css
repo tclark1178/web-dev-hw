@@ -6,17 +6,33 @@
 
 
 
-.container inner-box1 {
+#first {
+       width: 75px;
+       height: 400px;
+       background-color: #D99311;
+       position: 40,40,40;
+       overflow: hidden;
+       border-bottom-left-radius: 15px 25px;
+       border-bottom-right-radius: 15px 25px;
+      }
+
+
   color: #D99311;
-  position: relative;
+
   width: 75px;
   height: 85px;
-  border-bottom-left-radius: 15px 25px;
-  border-bottom-right-radius: 15px 25px;
 
-}
 
-.container inner-box2 {
+
+  #second{
+          position: relative;
+          width: 50%;
+          height: 50%;
+          margin: auto;
+          margin-top: 25%;
+          background: green;
+       }
+
   font-size: 12px;
 padding: 15px;
 margin: 10px 10px 10px 75%;
@@ -25,4 +41,3 @@ border-color: #663300;
 border-width: 5px;
 border-radius: 10em 0 5em 2em;
 box-shadow: 10px 10px 10px #FFFFCC;
-}
