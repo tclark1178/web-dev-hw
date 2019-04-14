@@ -3,12 +3,26 @@
   height: 600px;
   background-color: #A60F0F;
 }
+
+
+
 .container inner-box1 {
-  width: 75;
-  height: 85;
   color: #D99311;
-  border-color: black;
+  position: relative;
+  width: 75px;
+  height: 85px;
   border-bottom-left-radius: 15px 25px;
   border-bottom-right-radius: 15px 25px;
 
+}
+
+.container inner-box2 {
+  font-size: 12px;
+padding: 15px;
+margin: 10px 10px 10px 75%;
+border-style: solid;
+border-color: #663300;
+border-width: 5px;
+border-radius: 10em 0 5em 2em;
+box-shadow: 10px 10px 10px #FFFFCC;
 }
