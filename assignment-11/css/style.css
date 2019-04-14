@@ -8,6 +8,11 @@ h3 {
   bottom: 60px;
 }
 
+h4 {
+  position: absolute;
+  bottom: 30px;
+}
+
 .ex1 {
   /* this is the canvas for the IN */
   position: absolute;
