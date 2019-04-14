@@ -1,7 +1,11 @@
 
 h2 {
-  border-radius: 2px;
-  border-color: white;
+    color: #D99311;
+   text-shadow: 2px 2px black;
+}
+h3 {
+  position: absolute;
+  bottom: 60px;
 }
 
 .ex1 {
@@ -41,7 +45,7 @@ h2 {
 }
 
 .ex4 {
-  /* And the las part of the N */
+  /* the frist part of the N */
   position: absolute;
   right: 1200px;
   width: 89px;
@@ -53,11 +57,13 @@ h2 {
 }
 
 .ex5 {
+  /* last part of the N */
   position: absolute;
   right: 1000px;
   width: 89px;
 	height: 350px;
-  box-shadow: -10px ;
+  box-shadow: -10px 10px ;
+  z-index: -1;
   border-style: solid;
   border-color: #261C16;
   background-color: #D99311;
