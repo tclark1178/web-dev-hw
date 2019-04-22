@@ -12,6 +12,7 @@ header{
 }
 h2 {
   background-color: blue;
+  src: url('..../fonts/RaceTracSSK Bold.ttf') format('opentype');
   font-size: 40px;
   font-weight: bolder;
   position: relative;
@@ -20,6 +21,7 @@ h2 {
 
 p {
   background-color: red;
+  src: url('..../fonts/RaceTracSSK Bold.ttf') format('opentype');
   text-transform: capitalize;
 }
 .dropdown-piece{
