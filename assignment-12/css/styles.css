@@ -12,6 +12,8 @@ header{
 }
 h2 {
   background-color: blue;
+  font-size: 40px;
+  font-weight: bolder;
   position: relative;
   color: white;
 }
