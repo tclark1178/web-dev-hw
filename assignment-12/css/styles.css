@@ -33,7 +33,7 @@ p {
 }
 
 .dropdown {
-    display: inline-block;
+    display: inline-flex;
 }
 .dropdown-main {
     display: none;
@@ -41,22 +41,20 @@ p {
     border: 2px solid black;
     margin: -10;
     width: 6em;
-    color: rgb(0, 0, 0);
+    color: white;
     background-color: yellow;
     z-index: 1;
 }
 .dropdown-main a {
-    color:green;
+    color:black;
 }
 .dropdown:hover .dropdown-main {
     display: block;
 }
 
 .background-square{
-  background-color: rgb(24, 24, 24);
-    width: 700px;
-    height: auto;
-    margin: auto;
+  background-color: black;
+    width: 50px;
     padding: 20px;
-    border: 1px solid rgb(0,177,255);
+    border: 10px solid black;
 }
