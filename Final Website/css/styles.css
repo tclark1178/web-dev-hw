@@ -2,7 +2,7 @@
 
 .navbar {
   overflow:hidden;
-  background-color: red;
+  background-color: yellow;
 }
 
 .navbar a {
@@ -66,8 +66,8 @@ h1 {
   font-size: 250px;
   font-family: sans-serif;
   width: 300px;
-  border: 15px solid green;
-  padding: 50px;
+  border: 55px solid green;
+  padding: 5px;
   margin: 20px;
 
 }
