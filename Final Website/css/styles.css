@@ -1,73 +1,18 @@
-
-
-.navbar {
-  overflow:hidden;
-  background-color: yellow;
-}
-
-.navbar a {
-  float: left;
-  font-size: 30px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-
-.dropdown .dropbtn {
-  font-size: 30px;
-  border: none;
-  outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
-}
-
-.dropdown-content {
-  display: none;
+body {
+  background-image: url("../images/IMG_1907.jpg");
   position: absolute;
-  background-color:
-  min-width: 60px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+  background-position:center;
+  background-attachment: fixed;
 }
-
-.dropdown-content a {
-  float: none;
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-.dropdown-content a:hover {
-  background-color: white;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-
 
 h1 {
-  font-size: 250px;
+  font-size: 18px;
   font-family: sans-serif;
-  width: 300px;
-  border: 55px solid green;
-  padding: 5px;
-  margin: 20px;
+  position: center;
+}
 
+div {
+  font-family: monospace;
+  font-size: 30px;
+  color: black;
 }
