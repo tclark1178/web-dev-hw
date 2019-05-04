@@ -1,18 +1,25 @@
 body {
   background-image: url("../images/IMG_1907.jpg");
-  position: absolute;
+  position: inherit;
   background-position:center;
   background-attachment: fixed;
 }
 
 h1 {
   font-size: 85px;
+  text-shadow: black 4px 4px;
+  color: rgba(192,192,192,0.3);}
+  position: first-letter;
   font-family: sans-serif;
-  font-stretch: ultra-expanded;
 }
-
-div {
+h2 {
   font-family: monospace;
-  font-size: 30px;
-  color: black;
+  text-shadow: black 4px 4px;
+  color: rgba(192,192,192,0.3);}
+}
+nav-bar {
+  font-family: monospace;
+  font-size: 300px;
+  text-shadow: black 4px 4px;
+  color: rgba(192,192,192,0.3);}
 }
