@@ -14,8 +14,8 @@ h1 {
 }
 h2 {
   font-family: monospace;
-  text-shadow: black 4px 4px;
-  color: rgba(192,192,192,0.3);}
+  text-shadow: white 5px 5px;
+  color: black;
 }
 li {
   float: left;
