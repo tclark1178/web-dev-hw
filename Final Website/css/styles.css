@@ -17,9 +17,25 @@ h2 {
   text-shadow: black 4px 4px;
   color: rgba(192,192,192,0.3);}
 }
-nav-bar {
+li {
+  float: left;
+}
+
+li a {
+display: inline;
+border-top:
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+li {
   font-family: monospace;
-  font-size: 300px;
-  text-shadow: black 4px 4px;
-  color: rgba(192,192,192,0.3);}
+  font-size: 20px;
+  color: white;
+}
+p,h4,h3, {
+  font-size: 15px;
+  color: white;
+  text-shadow: black 3px 3px;
 }
